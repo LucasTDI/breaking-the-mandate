@@ -43,7 +43,7 @@ Prompts and data are released under [CC BY 4.0](LICENSE), the same license as Ap
 
 ## Contact
 
-For questions or feedback, please open an issue or contact Lucas Cheah on [LinkedIn](https://www.linkedin.com/in/lucascheahruifeng).
+For questions or feedback, please open an issue or contact me (Lucas Cheah) on [LinkedIn](https://www.linkedin.com/in/lucascheahruifeng).
 
 ## Bibtex Citation
 
