@@ -6,7 +6,7 @@ The study builds on Apollo Research's [insider trading demo](https://github.com/
 
 Please see the [research plan](docs/research-plan.pdf) for the full design.
 
-Lucas Cheah, with faculty advisor Dr. Christopher Finnin (Drexel University).
+Lucas Cheah, with faculty advisor Christopher Finnin, EdD (Drexel University).
 
 ## Status
 
